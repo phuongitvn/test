@@ -48,3 +48,4 @@ Salt:
 <input type="text" name="salt2" value="<?php echo $salt2;?>" />
 <button type="submit" name="decrypt">Decrypt</button><span><?php echo $codeDecrypt;?></span>
 </form>
+changed
